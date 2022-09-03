@@ -1,5 +1,5 @@
 # KNN Machine Learning Algorithm
-My implementation of both weighted and unweighted KNN algorithms
+My implementation of both weighted and unweighted KNN algorithms in python.
 
 ## Unweighted KNN
 This is a generic implementation of a brute-force KNN algorithm. It uses euclidean distances to determine the k-closest neighbours as shown below:
