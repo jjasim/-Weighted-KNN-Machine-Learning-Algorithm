@@ -32,7 +32,7 @@ class KNN:
         return np.array(predicted_labels)
     
     # This helper function predicts for one sample
-    # Hence the small x
+    # Hence the uncapitalised x
     def _predict(self, x):
         # Compute distances using Euclidean distances 
         distances = [weighted_euclidean_distance(x, x_train, self.weights) for x_train in self.X_train]
