@@ -14,7 +14,8 @@ This does make sense in some cases. For example, if you were to classify between
 
 To implement this weighted effect, I implemented a weighted euclidean distance to gauge the weighted distance between neighbours as shown below:
 
-<img src="https://github.com/jjasim/Weighted-KNN-Machine-Learning-Algorithm/blob/main/images/weighted.png" width="330" height="120">
+<img src="https://github.com/jjasim/Weighted-KNN-Machine-Learning-Algorithm/blob/main/images/weighted.png" width="320" height="75">
+<i> where wi is the weight of a particular feature i of A and B </i>
 
 ## Possible improvements
 Try to add gradient descent to figure out the optimal weights that minimises errors. 
