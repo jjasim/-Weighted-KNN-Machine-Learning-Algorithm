@@ -1,6 +1,9 @@
 # KNN Machine Learning Algorithm
 My implementation of both weighted and unweighted KNN algorithms
 
+## Unweighted KNN
+This is a generic implementation of a brute-force KNN algorithm. It uses euclidean distances to determine the k-closest neighbours as shown below:
+
 ## Weighted KNN
 For the weighted KNN, the weights are on the features of a particular dataset. 
 So one can bias the effect of some features over others.
