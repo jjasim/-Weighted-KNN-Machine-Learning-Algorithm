@@ -19,3 +19,5 @@ To implement this weighted effect, I implemented a weighted euclidean distance t
 
 ## Possible improvements
 Try to add gradient descent to figure out the optimal weights that minimises errors. 
+
+THIS IS A TEST!
